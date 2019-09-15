@@ -1,5 +1,5 @@
 # I have made a deployement request now. This is the Deploy_1 for project sync.
-# deploy 2
+# deploy 2 & test network now.
 # age = int(input("What's your age Sire. "))
 #
 # if age >= 18 and age <= 25:
