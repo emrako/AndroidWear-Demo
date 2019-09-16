@@ -2,6 +2,7 @@
 # deploy 2 & test network now.
 # I, Raghav have made a fork of your code, please accept my pull request.
 #
+# New Schedule Sync will be added here.
 # age = int(input("What's your age Sire. "))
 #
 # if age >= 18 and age <= 25:
